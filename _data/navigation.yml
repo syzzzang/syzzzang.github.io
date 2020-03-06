@@ -3,7 +3,7 @@ main:
   - title: "초슈퍼간지"
     url: "https://github.com/syzzzang/syzzzang.github.io"
   - title: "About"
-    url: "_pages/about.md"
+    url: "../_pages/about.md"
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
